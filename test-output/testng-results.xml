@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="160441" started-at="2019-03-22T07:23:24Z" finished-at="2019-03-22T07:26:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="160441" started-at="2019-03-22T07:23:24Z" finished-at="2019-03-22T07:26:05Z">
+      <class name="com.training.Salesforce.SalesforceTestcases">
+        <test-method status="PASS" signature="initializedriver()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="initializedriver" is-config="true" duration-ms="489" started-at="2019-03-22T00:23:24Z" finished-at="2019-03-22T00:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializedriver -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="launchurl" is-config="true" duration-ms="10000" started-at="2019-03-22T00:23:24Z" finished-at="2019-03-22T00:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="test1" duration-ms="2657" started-at="2019-03-22T00:23:34Z" finished-at="2019-03-22T00:23:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="quit" is-config="true" duration-ms="6110" started-at="2019-03-22T00:23:37Z" finished-at="2019-03-22T00:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="launchurl" is-config="true" duration-ms="8853" started-at="2019-03-22T00:23:43Z" finished-at="2019-03-22T00:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="test2" duration-ms="10118" started-at="2019-03-22T00:23:52Z" finished-at="2019-03-22T00:24:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="quit" is-config="true" duration-ms="6179" started-at="2019-03-22T00:24:02Z" finished-at="2019-03-22T00:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="launchurl" is-config="true" duration-ms="8718" started-at="2019-03-22T00:24:08Z" finished-at="2019-03-22T00:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="test3" duration-ms="23931" started-at="2019-03-22T00:24:17Z" finished-at="2019-03-22T00:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="quit" is-config="true" duration-ms="6243" started-at="2019-03-22T00:24:41Z" finished-at="2019-03-22T00:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="launchurl" is-config="true" duration-ms="9341" started-at="2019-03-22T00:24:47Z" finished-at="2019-03-22T00:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="test4A()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="test4A" duration-ms="1532" started-at="2019-03-22T00:24:57Z" finished-at="2019-03-22T00:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4A -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="quit" is-config="true" duration-ms="6221" started-at="2019-03-22T00:24:58Z" finished-at="2019-03-22T00:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="launchurl" is-config="true" duration-ms="8706" started-at="2019-03-22T00:25:04Z" finished-at="2019-03-22T00:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="test4B()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="test4B" duration-ms="3363" started-at="2019-03-22T00:25:13Z" finished-at="2019-03-22T00:25:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4B -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="quit" is-config="true" duration-ms="6164" started-at="2019-03-22T00:25:16Z" finished-at="2019-03-22T00:25:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="launchurl" is-config="true" duration-ms="9117" started-at="2019-03-22T00:25:23Z" finished-at="2019-03-22T00:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="test5" duration-ms="26762" started-at="2019-03-22T00:25:32Z" finished-at="2019-03-22T00:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="quit" is-config="true" duration-ms="6404" started-at="2019-03-22T00:25:59Z" finished-at="2019-03-22T00:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.training.Salesforce.SalesforceTestcases@c818063]" name="close" is-config="true" duration-ms="539" started-at="2019-03-22T00:26:05Z" finished-at="2019-03-22T00:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.training.Salesforce.SalesforceTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
